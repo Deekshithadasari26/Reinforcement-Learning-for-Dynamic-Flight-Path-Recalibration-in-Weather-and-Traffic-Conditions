@@ -2,8 +2,6 @@
 
 This repository contains the source code, Jupyter Notebook, and supporting files for the Capstone project titled:
 
-> **Decentralized Deep Reinforcement Learning for Dynamic Flight Path Recalibration in Real-Time Weather and Traffic Conditions**
-
 ---
 
 This project presents a decentralized approach to optimizing aircraft flight paths by integrating **real-time weather** and **air traffic data** using **Deep Reinforcement Learning (DRL)**. A hybrid optimization engine combining reinforcement learning with traditional algorithms dynamically generates optimal, weather-diverted, and traffic-avoidance paths.
@@ -13,8 +11,6 @@ Key Outcomes:
 - 97% route efficiency
 - Navigation precision with average error of 11.7 km
 - 12% and 14% efficiency impact for weather and traffic, respectively
-
----
 
 ---
 
@@ -55,6 +51,8 @@ jupyter notebook
 Weather Data: NOAA API (15-min interval updates)
 
 Traffic Data: ADS-B Exchange (real-time aircraft positioning)
+
+---
 
 ## 📍 Evaluated Routes
 
